@@ -1,0 +1,4 @@
+tile_set: "/main/wall/diffuse.atlas"
+default_animation: "Sci-Fi_Wall_014"
+material: "/main/wall/sprite.material"
+blend_mode: BLEND_MODE_ALPHA
