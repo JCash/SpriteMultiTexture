@@ -81,16 +81,3 @@ attributes {
     v: 0.0
   }
 }
-attributes {
-  name: "test"
-  semantic_type: SEMANTIC_TYPE_NONE
-  element_count: 3
-  normalize: false
-  data_type: TYPE_FLOAT
-  coordinate_space: COORDINATE_SPACE_LOCAL
-  double_values {
-    v: 0.0
-    v: 0.0
-    v: 0.0
-  }
-}
