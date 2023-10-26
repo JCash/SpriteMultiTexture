@@ -1,0 +1,11 @@
+default_animation: "arrow_tall"
+material: "/main/wall/sprite.material"
+blend_mode: BLEND_MODE_ALPHA
+textures {
+    sampler: "texture_diffuse"
+    texture: "/assets/arrows/diffuse.atlas"
+}
+textures {
+    sampler: "texture_normal"
+    texture: "/assets/arrows/normal.atlas"
+}

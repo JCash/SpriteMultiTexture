@@ -1,6 +1,6 @@
 images {
   image: "/assets/images/3dtextures/Sci-Fi_Wall_014_basecolor.jpg"
-  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+  sprite_trim_mode: SPRITE_TRIM_MODE_8
 }
 margin: 0
 extrude_borders: 0
